@@ -1,9 +1,9 @@
-#FileOutputStream
+# FileOutputStream
 
 * 该类用来创建一个文件并向文件中写数据。如果该流在打开文件进行输出前，目标文件不存在，那么该流会创建该文件。
 ***
 
-##构造方法
+## 构造方法
 
 * 使用字符串类型的文件名来创建一个输出流对象：
 > `OutputStream f = new FileOutputStream("C:/java/hello")`
@@ -12,7 +12,7 @@
 > `File f = new File("C:/java/hello"); OutputStream fOut = new FileOutputStream(f);`
 ***
 
-##常用方法
+## 常用方法
 
 * 1.public void close() throws IOException{}
 > 关闭此文件输入流并释放与此流有关的所有系统资源。抛出IOException异常。
