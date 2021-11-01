@@ -1,9 +1,9 @@
-#FileInputStream
+# FileInputStream
 
 * 该流用于从文件读取数据，它的对象可以用关键字 new 来创建。
 ***
 
-##构造方法
+## 构造方法
 
 > 1.可以使用字符串类型的文件名来创建一个输入流对象来读取文件：`InputStream f = new FileInputStream("C:/java/hello");`
 
@@ -11,7 +11,7 @@
 InputStream in = new FileInputStream(f);`
 ***
 
-##常用方法
+## 常用方法
 
 * 创建了InputStream对象，就可以使用下面的方法来读取流或者进行其他的流操作。
 

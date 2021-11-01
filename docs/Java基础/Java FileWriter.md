@@ -1,9 +1,9 @@
-#Java FileWriter类
+# Java FileWriter类
 
 * FileWriter 类从 OutputStreamWriter 类继承而来。该类按字符向流中写入数据。
 ***
 
-##构造方法
+## 构造方法
 
 * FileWriter(File file)
 > 在给出 File 对象的情况下构造一个 FileWriter 对象。
@@ -24,7 +24,7 @@
 
 ***
 
-##常用方法
+## 常用方法
 
 * 1.public void write(int c) throws IOException
 > 写入单个字符c。

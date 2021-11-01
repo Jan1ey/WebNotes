@@ -1,4 +1,4 @@
-#Java Queue
+# Java Queue
 
 >- 1.poll(): 移除并返问队列头部的元素 如果队列为空，则返回null
 >- 2.peek(): 返回队列头部的元素 如果队列为空，则返回null

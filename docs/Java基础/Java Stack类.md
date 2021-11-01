@@ -1,4 +1,4 @@
-#Java Stack类
+# Java Stack类
 
 栈是Vector的一个子类，它实现了一个标准的后进先出的栈。
 

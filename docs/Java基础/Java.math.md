@@ -1,7 +1,7 @@
-#JAVA数组
+# JAVA数组
 
-##1.数组定义：定义数组时需要添加new  
-##2.Java常用数学函数：  
+## 1.数组定义：定义数组时需要添加new  
+## 2.Java常用数学函数：  
 	·Java Math.round() 四舍五入  
 	·Java Math.random() 获取随机数  
 	·java Math.pow()计算次方  
@@ -16,7 +16,7 @@
 	·Java Math.sin() 计算正弦  
 	·Java Math.asin() 计算反正弦  
 	·Java Math.tan()/Math.tanh() 计算正切/双曲正切  
-##3.Java数组复制：  
+## 3.Java数组复制：  
 	·(1) System.arraycopy(): public static void arraycopy(Object src:目标数组,int srcPos:目标数组起始下标,Object dest:被复制的原数组,int desPos:原数组起始下标,int length:要复制的长度)  
 	·(2) copyOf()  
 ![avatar](http://r0k8todwk.hd-bkt.clouddn.com/image/mdcopyOf.png?e=1633534861&token=0JzUWYS5Zsf3VGjcc1fM7evuVrNRa34HWm1GryBv:egGg0BMAMezLCbTmGygjkbQG8to=)  

@@ -3,7 +3,7 @@
 * 将一个字节的输入流转换为字符的输入流
 ***
 
-##构造方法
+## 构造方法
 
 * public OutputStreamWriter(FileoutStream out)
 > 使用系统默认的字符集构造输出流对象
@@ -12,7 +12,7 @@
 > 使用charsetName指定的字符集构造输出流对象
 ***
 
-##常用方法
+## 常用方法
 
 * public void write(int b)throws IOException
 > 一次写一个字节

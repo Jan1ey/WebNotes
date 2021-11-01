@@ -1,4 +1,4 @@
-#Java HashSet
+# Java HashSet
 
 
 * HashSet 基于 HashMap 来实现的，是一个不允许有重复元素的集合。
@@ -12,8 +12,9 @@
 * HashSet 实现了 Set 接口。
 ***
 
-##构造方法                         
-###构造器
+## 构造方法  
+
+### 构造器
 * 1.HashSet()	
 > 构造一个新的空集; 支持HashMap实例具有默认初始容量（16）和加载因子（0.75）。
 * 2.HashSet​(int initialCapacity)	
@@ -25,7 +26,7 @@
 
 ***
 
-##方法摘要
+## 方法摘要
 
 * boolean	add​(E e)	
 > 如果指定的元素尚不存在，则将其添加到此集合中。

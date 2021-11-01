@@ -1,6 +1,6 @@
-#String 中常用的方法  
+# String 中常用的方法  
 
-##常用方法
+## 常用方法
   
 * 1.char charAt(int index)  
 > 返回指定索引处的 char 值。    
